@@ -3,6 +3,7 @@
   <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeBeck&layout=compact)
+  <br>
   ![ihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeBeck&theme=buefy&show_icons=true)
   
   </div>
