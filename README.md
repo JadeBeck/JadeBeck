@@ -2,7 +2,7 @@
   
   <div align="center">
   
-  ![ihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeBeck&theme=buefy&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeBeck&layout=compact)
+  ![ihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeBeck&theme=buefy&show_icons=true)
   
   </div>
