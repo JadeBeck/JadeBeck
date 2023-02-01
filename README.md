@@ -4,7 +4,7 @@
   
   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JadeBeck&layout=compact)
   <br>
-  ![ihyun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JadeBeck&theme=buefy&show_icons=true)
-  
+<!--   ![ihyun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JadeBeck&theme=buefy&show_icons=true)
+   -->
   </div>
 
