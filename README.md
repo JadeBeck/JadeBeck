@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center"><h1><i>🌊Welcome!<br>🤍This is Ihyun's place🌹</i></h1></div>
 
-<!--
-**JadeBeck/JadeBeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>🌟A lot interested in building a stable and compact server.<br>
+Dreaming of technology absorbing into the smallest moments of life with comfort and joy.
 
-Here are some ideas to get you started:
+>🌟안정적이면서 컴팩트한 서버를 만드는것에 관심이 많습니다.<br>
+삶의 사소한 순간들에 편안함과 기쁨으로 스며드는 기술을 꿈꿉니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+  
+  <div align="center">
+ 
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JadeBeck&layout=compact)
+  ![ihyun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JadeBeck&theme=buefy&show_icons=true)
+  
+  </div>
