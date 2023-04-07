@@ -1,4 +1,4 @@
-<div align="center"><h1><i>🌊Welcome!<br>🤍This is Ihyun's place🌹</i></h1></div>
+<div align="center"><h1><i>🩵Welcome!<br>This is Ihyun's place🌹</i></h1></div>
 
 >🌟A lot interested in building a stable and compact server.<br>
 Dreaming of technology absorbing into the smallest moments of life with comfort and joy.
